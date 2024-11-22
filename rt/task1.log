@@ -1,0 +1,24 @@
+INFO:root:Matrix inverse took 0.0136 seconds
+INFO:root:Matrix inverse took 0.4123 seconds
+2024-11-22 15:13:05,347 - 进程 56264 绑定的 CPU 核心: {1}
+2024-11-22 15:13:07,506 - Matrix inverse took 2.1593 seconds
+2024-11-22 15:13:11,089 - Matrix inverse took 2.5818 seconds
+2024-11-22 15:13:14,450 - Matrix inverse took 2.3590 seconds
+2024-11-22 15:13:17,594 - Matrix inverse took 2.1429 seconds
+2024-11-22 15:13:20,711 - Matrix inverse took 2.1149 seconds
+2024-11-22 15:13:24,071 - Matrix inverse took 2.3589 seconds
+2024-11-22 15:13:27,706 - Matrix inverse took 2.6327 seconds
+2024-11-22 15:13:31,798 - Matrix inverse took 3.0908 seconds
+2024-11-22 15:13:35,045 - Matrix inverse took 2.2450 seconds
+2024-11-22 15:13:38,237 - Matrix inverse took 2.1903 seconds
+2024-11-22 15:13:41,383 - Matrix inverse took 2.1441 seconds
+2024-11-22 15:13:44,543 - Matrix inverse took 2.1587 seconds
+2024-11-22 15:13:47,939 - Matrix inverse took 2.3943 seconds
+2024-11-22 15:13:51,040 - Matrix inverse took 2.0990 seconds
+2024-11-22 15:13:54,311 - Matrix inverse took 2.2692 seconds
+2024-11-22 15:13:57,698 - Matrix inverse took 2.3857 seconds
+2024-11-22 15:14:00,771 - Matrix inverse took 2.0704 seconds
+2024-11-22 15:14:04,122 - Matrix inverse took 2.3494 seconds
+2024-11-22 15:14:07,300 - Matrix inverse took 2.1761 seconds
+2024-11-22 15:14:10,474 - Matrix inverse took 2.1726 seconds
+2024-11-22 15:14:14,397 - Matrix inverse took 2.9217 seconds

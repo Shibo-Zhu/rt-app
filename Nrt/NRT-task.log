@@ -1,0 +1,10 @@
+2024-11-22 15:25:01,185 - Matrix multiplication took 5.0309 seconds, run 53 times
+2024-11-22 15:25:01,185 - Starting busy loop task
+2024-11-22 15:25:06,189 - Busy loop took 5.0017 seconds, run 2948 times
+2024-11-22 15:25:06,189 - Starting matrix multiplication task
+2024-11-22 15:25:11,325 - Matrix multiplication took 5.0236 seconds, run 51 times
+2024-11-22 15:25:11,326 - Starting busy loop task
+2024-11-22 15:25:16,327 - Busy loop took 5.0001 seconds, run 2868 times
+2024-11-22 15:25:16,328 - Starting matrix multiplication task
+2024-11-22 15:25:21,422 - Matrix multiplication took 5.0033 seconds, run 55 times
+2024-11-22 15:25:21,422 - Starting busy loop task
