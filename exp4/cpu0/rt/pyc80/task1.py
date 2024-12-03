@@ -36,7 +36,7 @@ def matrix_inverse_task(size):
 
 if __name__ == "__main__":
 
-    size = 1600
+    size = 1200
     while True:
         matrix_inverse_task(size)
         time.sleep(1)

@@ -2,7 +2,7 @@ import numpy as np
 import time
 import logging
 
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s', filename='NRT-task.log')
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(message)s', filename='nrt-task-toggle.log')
 
 def matrix_multiplication_task(size):
     start = time.time()
@@ -31,10 +31,10 @@ def alternating_task():
         i = i + 1
         end = time.time()
         if flag:
-            matrix_multiplication_task(1000)
+            matrix_multiplication_task(2000)
         else:
             busy_loop_task(iterations=10**5)
-        if end - start > 5:
+        if end - start > 10:
             flag = not flag
             if flag:
                 logging.info(f"Busy loop took {end - start:.4f} seconds, run {i} times")

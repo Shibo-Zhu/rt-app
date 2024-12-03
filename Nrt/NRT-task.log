@@ -1,10 +1,242 @@
-2024-11-22 15:25:01,185 - Matrix multiplication took 5.0309 seconds, run 53 times
-2024-11-22 15:25:01,185 - Starting busy loop task
-2024-11-22 15:25:06,189 - Busy loop took 5.0017 seconds, run 2948 times
-2024-11-22 15:25:06,189 - Starting matrix multiplication task
-2024-11-22 15:25:11,325 - Matrix multiplication took 5.0236 seconds, run 51 times
-2024-11-22 15:25:11,326 - Starting busy loop task
-2024-11-22 15:25:16,327 - Busy loop took 5.0001 seconds, run 2868 times
-2024-11-22 15:25:16,328 - Starting matrix multiplication task
-2024-11-22 15:25:21,422 - Matrix multiplication took 5.0033 seconds, run 55 times
-2024-11-22 15:25:21,422 - Starting busy loop task
+2024-11-22 11:24:18,659 - Matrix multiplication took 5.1570 seconds, run 28 times
+2024-11-22 11:24:18,659 - Starting busy loop task
+2024-11-22 11:24:23,662 - Busy loop took 5.0007 seconds, run 1909 times
+2024-11-22 11:24:23,662 - Starting matrix multiplication task
+2024-11-22 11:24:28,889 - Matrix multiplication took 5.0353 seconds, run 28 times
+2024-11-22 11:24:28,889 - Starting busy loop task
+2024-11-22 11:24:33,892 - Busy loop took 5.0001 seconds, run 1867 times
+2024-11-22 11:24:33,892 - Starting matrix multiplication task
+2024-11-22 11:24:39,196 - Matrix multiplication took 5.1021 seconds, run 27 times
+2024-11-22 11:24:39,196 - Starting busy loop task
+2024-11-22 11:24:44,200 - Busy loop took 5.0009 seconds, run 1847 times
+2024-11-22 11:24:44,200 - Starting matrix multiplication task
+2024-11-22 11:24:49,469 - Matrix multiplication took 5.0689 seconds, run 26 times
+2024-11-22 11:24:49,470 - Starting busy loop task
+2024-11-22 11:24:54,474 - Busy loop took 5.0019 seconds, run 1841 times
+2024-11-22 11:24:54,474 - Starting matrix multiplication task
+2024-11-22 11:24:59,820 - Matrix multiplication took 5.1428 seconds, run 27 times
+2024-11-22 11:24:59,820 - Starting busy loop task
+2024-11-22 11:25:04,824 - Busy loop took 5.0009 seconds, run 1803 times
+2024-11-22 11:25:04,824 - Starting matrix multiplication task
+2024-11-22 11:25:10,022 - Matrix multiplication took 5.0017 seconds, run 26 times
+2024-11-22 11:25:10,022 - Starting busy loop task
+2024-11-22 11:25:15,027 - Busy loop took 5.0018 seconds, run 1829 times
+2024-11-22 11:25:15,027 - Starting matrix multiplication task
+2024-11-22 11:25:20,237 - Matrix multiplication took 5.0269 seconds, run 26 times
+2024-11-22 11:25:20,237 - Starting busy loop task
+2024-11-22 11:25:25,242 - Busy loop took 5.0024 seconds, run 1827 times
+2024-11-22 11:25:25,242 - Starting matrix multiplication task
+2024-11-22 11:25:30,593 - Matrix multiplication took 5.1439 seconds, run 27 times
+2024-11-22 11:25:30,593 - Starting busy loop task
+2024-11-22 11:25:35,597 - Busy loop took 5.0010 seconds, run 1811 times
+2024-11-22 11:25:35,597 - Starting matrix multiplication task
+2024-11-22 11:25:40,837 - Matrix multiplication took 5.0404 seconds, run 26 times
+2024-11-22 11:25:40,837 - Starting busy loop task
+2024-11-22 11:25:45,842 - Busy loop took 5.0020 seconds, run 1825 times
+2024-11-22 11:25:45,842 - Starting matrix multiplication task
+2024-11-22 11:25:51,173 - Matrix multiplication took 5.1303 seconds, run 27 times
+2024-11-22 11:25:51,173 - Starting busy loop task
+2024-11-22 11:25:56,178 - Busy loop took 5.0022 seconds, run 1782 times
+2024-11-22 11:25:56,178 - Starting matrix multiplication task
+2024-11-22 11:26:01,579 - Matrix multiplication took 5.1970 seconds, run 27 times
+2024-11-22 11:26:01,579 - Starting busy loop task
+2024-11-22 11:26:06,583 - Busy loop took 5.0017 seconds, run 1843 times
+2024-11-22 11:26:06,583 - Starting matrix multiplication task
+2024-11-22 11:26:11,876 - Matrix multiplication took 5.0841 seconds, run 26 times
+2024-11-22 11:26:11,876 - Starting busy loop task
+2024-11-22 11:26:16,879 - Busy loop took 5.0006 seconds, run 1844 times
+2024-11-22 11:26:16,879 - Starting matrix multiplication task
+2024-11-22 11:26:22,236 - Matrix multiplication took 5.1535 seconds, run 27 times
+2024-11-22 11:26:22,236 - Starting busy loop task
+2024-11-22 11:26:27,241 - Busy loop took 5.0020 seconds, run 1811 times
+2024-11-22 11:26:27,241 - Starting matrix multiplication task
+2024-11-22 11:26:32,619 - Matrix multiplication took 5.1708 seconds, run 27 times
+2024-11-22 11:26:32,619 - Starting busy loop task
+2024-11-22 11:26:37,624 - Busy loop took 5.0026 seconds, run 1846 times
+2024-11-22 11:26:37,624 - Starting matrix multiplication task
+2024-11-22 11:26:42,849 - Matrix multiplication took 5.0394 seconds, run 26 times
+2024-11-22 11:26:42,849 - Starting busy loop task
+2024-11-22 11:26:47,855 - Busy loop took 5.0027 seconds, run 1783 times
+2024-11-22 11:26:47,855 - Starting matrix multiplication task
+2024-11-22 11:26:53,066 - Matrix multiplication took 5.0076 seconds, run 26 times
+2024-11-22 11:26:53,066 - Starting busy loop task
+2024-11-22 11:26:58,072 - Busy loop took 5.0025 seconds, run 1814 times
+2024-11-22 11:26:58,072 - Starting matrix multiplication task
+2024-11-22 11:27:03,410 - Matrix multiplication took 5.1338 seconds, run 26 times
+2024-11-22 11:27:03,410 - Starting busy loop task
+2024-11-22 11:27:08,414 - Busy loop took 5.0009 seconds, run 1824 times
+2024-11-22 11:27:08,414 - Starting matrix multiplication task
+2024-11-22 11:27:13,761 - Matrix multiplication took 5.1456 seconds, run 27 times
+2024-11-22 11:27:13,761 - Starting busy loop task
+2024-11-22 11:27:18,765 - Busy loop took 5.0010 seconds, run 1790 times
+2024-11-22 11:27:18,765 - Starting matrix multiplication task
+2024-11-22 11:27:24,006 - Matrix multiplication took 5.0373 seconds, run 26 times
+2024-11-22 11:27:24,006 - Starting busy loop task
+2024-11-22 11:27:29,010 - Busy loop took 5.0013 seconds, run 1817 times
+2024-11-22 11:27:29,011 - Starting matrix multiplication task
+2024-11-22 11:27:34,372 - Matrix multiplication took 5.1707 seconds, run 26 times
+2024-11-22 11:27:34,372 - Starting busy loop task
+2024-11-22 11:27:39,378 - Busy loop took 5.0027 seconds, run 1910 times
+2024-11-22 11:27:39,378 - Starting matrix multiplication task
+2024-11-22 11:27:44,583 - Matrix multiplication took 5.0184 seconds, run 28 times
+2024-11-22 11:27:44,583 - Starting busy loop task
+2024-11-22 11:27:49,600 - Busy loop took 5.0012 seconds, run 1908 times
+2024-11-22 11:27:49,600 - Starting matrix multiplication task
+2024-11-22 12:05:51,532 - Matrix multiplication took 5.0235 seconds, run 28 times
+2024-11-22 12:05:51,532 - Starting busy loop task
+2024-11-22 12:05:56,535 - Busy loop took 5.0003 seconds, run 1899 times
+2024-11-22 12:05:56,535 - Starting matrix multiplication task
+2024-11-22 12:06:01,769 - Matrix multiplication took 5.0434 seconds, run 28 times
+2024-11-22 12:06:01,769 - Starting busy loop task
+2024-11-22 12:06:06,772 - Busy loop took 5.0000 seconds, run 1909 times
+2024-11-22 12:06:06,772 - Starting matrix multiplication task
+2024-11-22 12:06:11,998 - Matrix multiplication took 5.0433 seconds, run 28 times
+2024-11-22 12:06:11,998 - Starting busy loop task
+2024-11-22 12:06:17,003 - Busy loop took 5.0017 seconds, run 1900 times
+2024-11-22 12:06:17,003 - Starting matrix multiplication task
+2024-11-22 12:06:22,265 - Matrix multiplication took 5.0785 seconds, run 28 times
+2024-11-22 12:06:22,265 - Starting busy loop task
+2024-11-22 12:06:27,269 - Busy loop took 5.0004 seconds, run 1897 times
+2024-11-22 12:06:27,269 - Starting matrix multiplication task
+2024-11-22 12:06:32,502 - Matrix multiplication took 5.0436 seconds, run 28 times
+2024-11-22 12:06:32,502 - Starting busy loop task
+2024-11-22 12:06:37,505 - Busy loop took 5.0008 seconds, run 1907 times
+2024-11-22 12:06:37,505 - Starting matrix multiplication task
+2024-11-22 12:06:42,716 - Matrix multiplication took 5.0277 seconds, run 28 times
+2024-11-22 12:06:42,716 - Starting busy loop task
+2024-11-22 12:06:47,721 - Busy loop took 5.0019 seconds, run 1905 times
+2024-11-22 12:06:47,721 - Starting matrix multiplication task
+2024-11-22 12:06:52,916 - Matrix multiplication took 5.0114 seconds, run 28 times
+2024-11-22 12:06:52,916 - Starting busy loop task
+2024-11-22 12:06:57,920 - Busy loop took 5.0015 seconds, run 1908 times
+2024-11-22 12:06:57,920 - Starting matrix multiplication task
+2024-11-22 12:07:03,170 - Matrix multiplication took 5.0622 seconds, run 28 times
+2024-11-22 12:07:03,170 - Starting busy loop task
+2024-11-22 12:07:08,176 - Busy loop took 5.0024 seconds, run 1909 times
+2024-11-22 12:07:08,176 - Starting matrix multiplication task
+2024-11-22 12:07:13,443 - Matrix multiplication took 5.0859 seconds, run 28 times
+2024-11-22 12:07:13,444 - Starting busy loop task
+2024-11-22 12:07:18,447 - Busy loop took 5.0006 seconds, run 1908 times
+2024-11-22 12:07:18,447 - Starting matrix multiplication task
+2024-11-22 12:07:23,751 - Matrix multiplication took 5.1188 seconds, run 28 times
+2024-11-22 12:07:23,751 - Starting busy loop task
+2024-11-22 12:07:28,756 - Busy loop took 5.0024 seconds, run 1908 times
+2024-11-22 12:07:28,756 - Starting matrix multiplication task
+2024-11-22 12:07:34,035 - Matrix multiplication took 5.0909 seconds, run 28 times
+2024-11-22 12:07:34,035 - Starting busy loop task
+2024-11-22 12:07:39,038 - Busy loop took 5.0008 seconds, run 1906 times
+2024-11-22 12:07:39,038 - Starting matrix multiplication task
+2024-11-22 12:07:44,344 - Matrix multiplication took 5.1220 seconds, run 28 times
+2024-11-22 12:07:44,344 - Starting busy loop task
+2024-11-22 12:07:49,347 - Busy loop took 5.0005 seconds, run 1902 times
+2024-11-22 12:07:49,347 - Starting matrix multiplication task
+2024-11-22 12:07:54,649 - Matrix multiplication took 5.1179 seconds, run 28 times
+2024-11-22 12:07:54,650 - Starting busy loop task
+2024-11-22 12:07:59,654 - Busy loop took 5.0021 seconds, run 1911 times
+2024-11-22 12:07:59,654 - Starting matrix multiplication task
+2024-11-22 12:08:04,863 - Matrix multiplication took 5.0166 seconds, run 28 times
+2024-11-22 12:08:04,863 - Starting busy loop task
+2024-11-22 12:08:09,866 - Busy loop took 5.0003 seconds, run 1908 times
+2024-11-22 12:08:09,866 - Starting matrix multiplication task
+2024-11-22 12:08:15,169 - Matrix multiplication took 5.1196 seconds, run 28 times
+2024-11-22 12:08:15,169 - Starting busy loop task
+2024-11-22 12:08:20,174 - Busy loop took 5.0019 seconds, run 1905 times
+2024-11-22 12:08:20,174 - Starting matrix multiplication task
+2024-11-22 12:08:25,485 - Matrix multiplication took 5.1281 seconds, run 28 times
+2024-11-22 12:08:25,485 - Starting busy loop task
+2024-11-22 12:08:30,490 - Busy loop took 5.0026 seconds, run 1912 times
+2024-11-22 12:08:30,490 - Starting matrix multiplication task
+2024-11-22 12:08:35,806 - Matrix multiplication took 5.1220 seconds, run 28 times
+2024-11-22 12:08:35,807 - Starting busy loop task
+2024-11-22 12:08:40,811 - Busy loop took 5.0017 seconds, run 1910 times
+2024-11-22 12:08:40,811 - Starting matrix multiplication task
+2024-11-22 12:08:46,061 - Matrix multiplication took 5.0674 seconds, run 28 times
+2024-11-22 12:08:46,061 - Starting busy loop task
+2024-11-22 12:08:51,066 - Busy loop took 5.0019 seconds, run 1911 times
+2024-11-22 12:08:51,066 - Starting matrix multiplication task
+2024-11-22 12:08:56,343 - Matrix multiplication took 5.0951 seconds, run 28 times
+2024-11-22 12:08:56,343 - Starting busy loop task
+2024-11-22 12:09:01,346 - Busy loop took 5.0000 seconds, run 1914 times
+2024-11-22 12:09:01,346 - Starting matrix multiplication task
+2024-11-22 12:09:06,611 - Matrix multiplication took 5.0770 seconds, run 28 times
+2024-11-22 12:09:06,611 - Starting busy loop task
+2024-11-22 12:15:01,008 - Matrix multiplication took 10.4100 seconds, run 9 times
+2024-11-22 12:15:01,008 - Starting busy loop task
+2024-11-22 12:15:11,012 - Busy loop took 10.0017 seconds, run 3826 times
+2024-11-22 12:15:11,012 - Starting matrix multiplication task
+2024-11-22 12:15:22,660 - Matrix multiplication took 10.3459 seconds, run 9 times
+2024-11-22 12:15:22,660 - Starting busy loop task
+2024-11-22 12:15:32,665 - Busy loop took 10.0024 seconds, run 3819 times
+2024-11-22 12:15:32,665 - Starting matrix multiplication task
+2024-11-22 12:15:44,374 - Matrix multiplication took 10.4108 seconds, run 9 times
+2024-11-22 12:15:44,374 - Starting busy loop task
+2024-11-22 12:15:54,379 - Busy loop took 10.0019 seconds, run 3822 times
+2024-11-22 12:15:54,379 - Starting matrix multiplication task
+2024-11-22 12:16:06,097 - Matrix multiplication took 10.4222 seconds, run 9 times
+2024-11-22 12:16:06,097 - Starting busy loop task
+2024-11-22 12:16:16,101 - Busy loop took 10.0010 seconds, run 3836 times
+2024-11-22 12:16:16,101 - Starting matrix multiplication task
+2024-11-22 12:16:27,857 - Matrix multiplication took 10.4532 seconds, run 9 times
+2024-11-22 12:16:27,857 - Starting busy loop task
+2024-11-22 12:16:37,860 - Busy loop took 10.0003 seconds, run 3837 times
+2024-11-22 12:16:37,861 - Starting matrix multiplication task
+2024-11-22 12:16:49,612 - Matrix multiplication took 10.4443 seconds, run 9 times
+2024-11-22 12:16:49,612 - Starting busy loop task
+2024-11-22 12:16:59,615 - Busy loop took 10.0004 seconds, run 3835 times
+2024-11-22 12:16:59,615 - Starting matrix multiplication task
+2024-11-22 12:17:11,249 - Matrix multiplication took 10.3451 seconds, run 9 times
+2024-11-22 12:17:11,249 - Starting busy loop task
+2024-11-22 12:17:21,254 - Busy loop took 10.0022 seconds, run 3872 times
+2024-11-22 12:17:21,254 - Starting matrix multiplication task
+2024-11-22 12:17:33,078 - Matrix multiplication took 10.5116 seconds, run 9 times
+2024-11-22 12:17:33,078 - Starting busy loop task
+2024-11-22 12:17:43,082 - Busy loop took 10.0013 seconds, run 3814 times
+2024-11-22 12:17:43,082 - Starting matrix multiplication task
+2024-11-22 12:17:54,798 - Matrix multiplication took 10.4155 seconds, run 9 times
+2024-11-22 12:17:54,798 - Starting busy loop task
+2024-11-22 12:18:04,801 - Busy loop took 10.0004 seconds, run 3836 times
+2024-11-22 12:18:04,801 - Starting matrix multiplication task
+2024-11-22 12:18:16,544 - Matrix multiplication took 10.4323 seconds, run 9 times
+2024-11-22 12:18:16,544 - Starting busy loop task
+2024-11-22 12:18:26,548 - Busy loop took 10.0009 seconds, run 3846 times
+2024-11-22 12:18:26,548 - Starting matrix multiplication task
+2024-11-22 12:18:38,211 - Matrix multiplication took 10.3458 seconds, run 9 times
+2024-11-22 12:18:38,211 - Starting busy loop task
+2024-11-22 12:18:48,214 - Busy loop took 10.0001 seconds, run 3835 times
+2024-11-22 12:18:48,214 - Starting matrix multiplication task
+2024-11-22 12:18:59,931 - Matrix multiplication took 10.4127 seconds, run 9 times
+2024-11-22 12:18:59,931 - Starting busy loop task
+2024-11-22 12:19:09,937 - Busy loop took 10.0024 seconds, run 3820 times
+2024-11-22 12:19:09,937 - Starting matrix multiplication task
+2024-11-22 12:19:21,729 - Matrix multiplication took 10.4835 seconds, run 9 times
+2024-11-22 12:19:21,729 - Starting busy loop task
+2024-11-22 12:19:31,732 - Busy loop took 10.0004 seconds, run 3824 times
+2024-11-22 12:19:31,732 - Starting matrix multiplication task
+2024-11-22 12:19:43,417 - Matrix multiplication took 10.3885 seconds, run 9 times
+2024-11-22 12:19:43,417 - Starting busy loop task
+2024-11-22 12:19:53,421 - Busy loop took 10.0010 seconds, run 3869 times
+2024-11-22 12:19:53,421 - Starting matrix multiplication task
+2024-11-22 12:20:05,177 - Matrix multiplication took 10.4397 seconds, run 9 times
+2024-11-22 12:20:05,177 - Starting busy loop task
+2024-11-22 12:20:15,183 - Busy loop took 10.0026 seconds, run 3818 times
+2024-11-22 12:20:15,183 - Starting matrix multiplication task
+2024-11-22 12:36:18,845 - Matrix multiplication took 10.8830 seconds, run 4 times
+2024-11-22 12:36:18,845 - Starting busy loop task
+2024-11-22 12:36:28,852 - Busy loop took 10.0035 seconds, run 1410 times
+2024-11-22 12:36:28,852 - Starting matrix multiplication task
+2024-11-22 12:36:43,277 - Matrix multiplication took 10.8164 seconds, run 4 times
+2024-11-22 12:36:43,277 - Starting busy loop task
+2024-11-22 12:36:53,338 - Busy loop took 10.0023 seconds, run 1378 times
+2024-11-22 12:36:53,338 - Starting matrix multiplication task
+2024-11-22 12:37:07,353 - Matrix multiplication took 10.5285 seconds, run 4 times
+2024-11-22 12:37:07,353 - Starting busy loop task
+2024-11-22 12:37:17,358 - Busy loop took 10.0024 seconds, run 1451 times
+2024-11-22 12:37:17,359 - Starting matrix multiplication task
+2024-11-22 12:37:30,969 - Matrix multiplication took 10.2010 seconds, run 4 times
+2024-11-22 12:37:30,969 - Starting busy loop task
+2024-11-22 12:37:40,972 - Busy loop took 10.0001 seconds, run 1478 times
+2024-11-22 12:37:40,972 - Starting matrix multiplication task
+2024-11-22 12:37:54,563 - Matrix multiplication took 10.2687 seconds, run 4 times
+2024-11-22 12:37:54,563 - Starting busy loop task
+2024-11-22 12:38:04,567 - Busy loop took 10.0010 seconds, run 1443 times
+2024-11-22 12:38:04,567 - Starting matrix multiplication task
